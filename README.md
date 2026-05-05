@@ -22,9 +22,9 @@ View the complete design here:
 https://www.figma.com/design/BnLFsyjtngmD4KlW3BopjL/Portfolio?node-id=0-1&t=Zx5zNwux4DOxHyQ6-1
 
 ## Screenshots
-![Home Page](PortfolioImages/Home.png)  
-![Projects Section](PortfolioImages/Projects.png)  
-![Contact Page](PortfolioImages/Skills.png)
+![Home Page](Portfolio_Images/Home.png)  
+![Projects Section](Portfolio_Images/Projects.png)  
+![Contact Page](Portfolio_Images/Skills.png)
 
 ## Future Improvements
 - Convert design into a live website using HTML & CSS
